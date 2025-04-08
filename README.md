@@ -113,8 +113,5 @@ Les morceaux suivants ont été créés à l'aide des prompts de génération mu
   (Instrumental Viking soundtrack: hard-hitting orchestral swells, fierce percussion, and booming bass. Pure, relentless battle energy—no vocals, just raw, epic power.)
 
 Ces fichiers illustrent l'évolution de la bande-son du jeu – depuis des ambiances immersives et mystérieuses jusqu'aux séquences d'action et de bataille intenses.
-<audio controls>
-
-  <source src="5.musique et son/1.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
+[Listen to musique1.mp3](5.musique%20et%20son/1.mp3)
+[Listen to musique1.mp3](5.musique%20et%20son/2.mp3)
