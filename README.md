@@ -115,3 +115,23 @@ Les morceaux suivants ont été créés à l'aide des prompts de génération mu
 Ces fichiers illustrent l'évolution de la bande-son du jeu – depuis des ambiances immersives et mystérieuses jusqu'aux séquences d'action et de bataille intenses.
 [Listen to musique1.mp3](5.musique%20et%20son/1.mp3)
 [Listen to musique1.mp3](5.musique%20et%20son/2.mp3)
+
+
+## 6. Modélisation 3D
+
+### Comment les personnages et les objets devraient-ils être modelés en 3D ?
+La modélisation 3D dans **The Dawn** devrait suivre une approche hybride, alliant le réalisme des éléments vikings à l'esthétique manga. Les personnages, comme **Eirik** et **Astrid**, devraient avoir des proportions légèrement exagérées pour capturer le style manga tout en conservant une apparence réaliste. **Eirik**, par exemple, pourrait avoir des traits marqués, avec une musculature prononcée et des détails comme des tatouages runiques sur ses bras et des cicatrices de guerre. **Astrid**, en revanche, pourrait avoir un design plus fluide et éthéré, avec des cheveux longs et ondulés, des yeux captivants et des vêtements qui semblent presque surnaturels.
+
+Les personnages doivent également être animés de manière fluide et dynamique, en particulier lors des scènes de combat. Les mouvements doivent être impressionnants et amples pour accentuer l’aspect héroïque des personnages. Les armures doivent être détaillées et fonctionnelles, mais aussi incorporer des éléments mystiques et fantastiques, tels que des runes incisées dans le métal, des effets lumineux ou des textures d’énergie magique, pour renforcer l'aspect magique et légendaire du jeu.
+
+Les **objets** (armes, boucliers, artefacts magiques) devraient être soigneusement modélisés pour refléter la culture viking, tout en intégrant des éléments fantastiques. Par exemple, les **épées** peuvent être ornées de motifs vikings, tandis que les **boucliers** pourraient avoir des motifs lumineux ou des effets visuels associés à la magie ancienne. Les **temples et ruines** doivent avoir des détails architecturaux réalistes, avec des pierres et des éléments de la nature qui se mélangent à l’aspect mystique du monde, comme des racines d'arbres massives ou des symboles runiques flottants.
+
+### Quels détails sont importants pour refléter le thème visuel ?
+Pour que le jeu reflète bien le thème viking et manga, plusieurs éléments clés doivent être pris en compte dans la modélisation 3D :
+1. **Textures réalistes et mystiques** : Les matériaux naturels comme le bois, la pierre et le métal doivent être représentés de manière réaliste, mais avec des touches surnaturelles comme des runes incisées ou des éclats de lumière pour renforcer l’aspect magique.
+2. **Effets de lumière** : L'éclairage dynamique est essentiel, notamment pour les scènes en extérieur avec des conditions météorologiques changeantes. Par exemple, des éclats de lumière peuvent être ajoutés autour des **runes** ou des **artéfacts** magiques, tandis que les scènes en intérieur, comme les temples, doivent bénéficier de jeux d'ombre et de lumière mystérieux.
+3. **Vêtements et armures** : Les armures doivent être fidèles aux styles vikings, mais intégrant des éléments de conception inspirés de l'anime, comme des tissus flottants, des éléments translucides ou des accessoires fantaisistes.
+4. **Créatures mythologiques** : Les créatures comme les trolls ou les Valkyries devraient être impressionnantes et détaillées, avec des textures de peau qui combinent un réalisme brut (peau de troll, plumes de Valkyrie) et des touches fantastiques, comme des auras lumineuses ou des yeux brillants.
+5. **Paysages** : Le monde du jeu doit être richement détaillé, avec des montagnes majestueuses, des forêts épaisses, des fjords gelés et des temples anciens. La végétation et la faune devraient avoir une apparence naturelle et détaillée, mais aussi intégrer des éléments surnaturels, comme des racines lumineuses ou des pierres flottantes, pour renforcer l'atmosphère mystique du jeu.
+
+![alt text](image-1.png)
