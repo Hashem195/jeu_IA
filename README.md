@@ -37,3 +37,14 @@ Logo généré sur LeonardoIA :
 ![alt text](image.png)
 
 ## 3.genie artistique
+
+
+
+
+
+
+
+
+## 4. Scénario et narration
+
+**The Dawn** suit **Eirik**, un guerrier viking qui revient chez lui pour découvrir que son clan est frappé par une malédiction ancienne, plongeant son village dans une nuit éternelle. Accompagné de **Astrid**, une mystérieuse guide dotée de pouvoirs mystiques, il entreprend un voyage pour briser la malédiction. À travers des terres hantées et des temples oubliés, Eirik découvre que la malédiction est liée à des rituels anciens réalisés par ses ancêtres. Il devra faire face à des choix difficiles entre vengeance, honneur et sacrifice, tandis que ses décisions affectent le destin de son clan. Les personnages principaux incluent Eirik, Astrid, le chef Bjorn, la Valkyrie Hildegarde, et le Gardien des Runes, qui jouent tous un rôle clé dans la quête de rédemption.
