@@ -38,6 +38,7 @@ Logo généré sur LeonardoIA :
 
 ## 3.genie artistique
 
+=======
 Voici une réponse détaillée pour répondre à ces deux questions en lien avec le concept de **The Dawn**.
 
 ---
@@ -92,3 +93,7 @@ Voici une réponse détaillée pour répondre à ces deux questions en lien avec
 ![alt text](/3.genie%20artistique/2.jpg)
 
 En résumé, les personnages doivent être conçus comme des figures dynamiques mêlant l’authenticité viking et la stylisation manga, tandis que les décors doivent évoquer des environnements nordiques grandioses renforcés par des effets de lumière et des textures artistiques. Les illustrations de concept doivent, quant à elles, capturer l’essence de cette fusion en mettant en avant des éléments visuels qui racontent l'histoire et renforcent la dualité entre la tradition et la modernité.
+
+## 4. Scénario et narration
+
+**The Dawn** suit **Eirik**, un guerrier viking qui revient chez lui pour découvrir que son clan est frappé par une malédiction ancienne, plongeant son village dans une nuit éternelle. Accompagné de **Astrid**, une mystérieuse guide dotée de pouvoirs mystiques, il entreprend un voyage pour briser la malédiction. À travers des terres hantées et des temples oubliés, Eirik découvre que la malédiction est liée à des rituels anciens réalisés par ses ancêtres. Il devra faire face à des choix difficiles entre vengeance, honneur et sacrifice, tandis que ses décisions affectent le destin de son clan. Les personnages principaux incluent Eirik, Astrid, le chef Bjorn, la Valkyrie Hildegarde, et le Gardien des Runes, qui jouent tous un rôle clé dans la quête de rédemption.
