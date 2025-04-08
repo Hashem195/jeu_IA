@@ -115,6 +115,6 @@ Les morceaux suivants ont été créés à l'aide des prompts de génération mu
 Ces fichiers illustrent l'évolution de la bande-son du jeu – depuis des ambiances immersives et mystérieuses jusqu'aux séquences d'action et de bataille intenses.
 <audio controls>
 
-  <source src="1.mp3" type="audio/mp3">
+  <source src="5.musique et son/1.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
