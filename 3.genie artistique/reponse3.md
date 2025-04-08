@@ -33,3 +33,8 @@ Détails et textures : Porter une attention particulière aux textures des maté
 Palette de couleurs : Utiliser des teintes contrastées, mêlant des tons froids pour les environnements et des accents chauds pour les éléments magiques, afin de créer une ambiance immersive.​
 
 En respectant ces directives, les illustrations de concept pour The Dawn captureront efficacement l'essence du jeu, offrant aux joueurs une expérience visuelle cohérente et envoûtante.
+
+### Examples données par Chat-gpt-o4
+
+![alt text](1.png)
+![alt text](2.jpg)
