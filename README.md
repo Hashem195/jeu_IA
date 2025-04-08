@@ -97,3 +97,24 @@ En résumé, les personnages doivent être conçus comme des figures dynamiques 
 ## 4. Scénario et narration
 
 **The Dawn** suit **Eirik**, un guerrier viking qui revient chez lui pour découvrir que son clan est frappé par une malédiction ancienne, plongeant son village dans une nuit éternelle. Accompagné de **Astrid**, une mystérieuse guide dotée de pouvoirs mystiques, il entreprend un voyage pour briser la malédiction. À travers des terres hantées et des temples oubliés, Eirik découvre que la malédiction est liée à des rituels anciens réalisés par ses ancêtres. Il devra faire face à des choix difficiles entre vengeance, honneur et sacrifice, tandis que ses décisions affectent le destin de son clan. Les personnages principaux incluent Eirik, Astrid, le chef Bjorn, la Valkyrie Hildegarde, et le Gardien des Runes, qui jouent tous un rôle clé dans la quête de rédemption.
+
+## 5. Musique et bande son
+
+### Bande-Son du Jeu "Ragnarok: The Dawn"
+
+Les morceaux suivants ont été créés à l'aide des prompts de génération musicale adaptés pour "Ragnarok: The Dawn". Ils illustrent l'atmosphère épique et mystique du jeu en fusionnant des éléments orchestraux, traditionnels nordiques et modernes :
+
+- **1.mp3**  
+  _Prompt utilisé :_  
+  "Créer une bande-son immersive pour 'Ragnarok: The Dawn', un jeu d’action-aventure se déroulant à l’ère viking. La musique doit fusionner des cordes dramatiques, des chœurs épiques, des percussions tribales et des touches électroniques, évoquant une quête mystique et épique. Utiliser des éléments sonores traditionnels nordiques et des textures modernes pour accentuer la tension, l’exploration et l'intensité des combats."
+
+- **musique2.mp3**  
+  _Prompt utilisé :_  
+  (Instrumental Viking soundtrack: hard-hitting orchestral swells, fierce percussion, and booming bass. Pure, relentless battle energy—no vocals, just raw, epic power.)
+
+Ces fichiers illustrent l'évolution de la bande-son du jeu – depuis des ambiances immersives et mystérieuses jusqu'aux séquences d'action et de bataille intenses.
+<audio controls>
+
+  <source src="1.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
