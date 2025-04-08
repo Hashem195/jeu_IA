@@ -85,10 +85,10 @@ Voici une réponse détaillée pour répondre à ces deux questions en lien avec
 
 ---
 
-![alt text](1.png)
+![alt text](./3.genie%20artistique/1.png)
 
 ---
 
-![alt text](2.jpg)
+![alt text](/3.genie%20artistique/2.jpg)
 
 En résumé, les personnages doivent être conçus comme des figures dynamiques mêlant l’authenticité viking et la stylisation manga, tandis que les décors doivent évoquer des environnements nordiques grandioses renforcés par des effets de lumière et des textures artistiques. Les illustrations de concept doivent, quant à elles, capturer l’essence de cette fusion en mettant en avant des éléments visuels qui racontent l'histoire et renforcent la dualité entre la tradition et la modernité.
