@@ -10,7 +10,7 @@
 
 Pour concevoir le personnage principal et les décors de votre jeu The Dawn, il est essentiel de fusionner l'esthétique viking traditionnelle avec des éléments inspirés du manga. Voici quelques directives pour orienter le développement artistique :​
 
-Personnages :
+- Personnages :
 
 Apparence : Le protagoniste, une guerrière viking, devrait arborer une armure ornée de runes lumineuses, combinant cuir, métal et fourrure pour refléter l'authenticité viking tout en intégrant des touches fantastiques. Ses cheveux longs et flottants, typiques du style manga, ajouteraient une dynamique visuelle.​
 
@@ -18,7 +18,7 @@ Armes : Une épée enflammée, aux détails complexes et aux effets lumineux, se
 
 Expressions : Des expressions faciales exagérées, caractéristiques du manga, permettraient de transmettre efficacement les émotions du personnage.​
 
-Décors :
+- Décors :
 
 Environnements : Des paysages nordiques stylisés, tels que des fjords majestueux, des forêts denses et des montagnes imposantes, rendus avec des lignes audacieuses et des couleurs vibrantes pour refléter l'influence manga.​
 
