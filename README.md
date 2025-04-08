@@ -25,3 +25,5 @@ Only English please. I want to create a 3D RPG video game set in the Viking era,
 ## 2. Identité
 
 Il nous a proposé de prendre le nom "Ragnarok : the Dawn" que nous gardons.
+
+## 3.genie artistique
